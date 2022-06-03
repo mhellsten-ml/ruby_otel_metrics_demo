@@ -1,0 +1,6 @@
+:queues:
+  - ["high_priority", 2]
+  - ["low_priority", 1]
+
+development:
+  :concurrency: 2
